@@ -1051,7 +1051,7 @@ R_1 \vee \exists e: (e_1, e) \in R_1 \wedge (e, e_2) \in R$$
 
 
  It holds:
- - a $\rightarrow$ f (via b, c, d)
+ - a $\rightarrow$ f (via c, d)
  - But: a and e are not ordered by $\rightarrow$; a and e are concurrent
 
 
