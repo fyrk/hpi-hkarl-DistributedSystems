@@ -70,7 +70,7 @@
   - At runtime, errors are the manifestation of a fault in an
     unexpected state 
     - E.g.: memory cell was written with a 1, subsequent read returns a
-      0 owing to the bit flit fault  
+      0 owing to the bit flip fault  
   - Do not necessarily cause failure
 \pause 
 - *Failure*: System displays behavior contrary to specification 
