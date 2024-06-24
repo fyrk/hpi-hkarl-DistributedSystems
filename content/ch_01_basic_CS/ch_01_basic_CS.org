@@ -307,7 +307,7 @@ are allowed to occur
     - If it did not arrive with $T$ time, consider it lost
       $\rightarrow$ Timeout! 
     
-** Faults models 
+** Fault models 
 
 *** Fault models 
 
