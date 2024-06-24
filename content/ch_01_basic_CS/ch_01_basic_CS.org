@@ -126,7 +126,7 @@ We usually have some operations like:
     - Possibly, of specified properties: desired originator, maximum
       length, \ldots
     - Often, no guarantee on minimum length!
-  - Nonblocking (~man fcntl~, ~O_NONBLOCK~): Check whether message is available
+  - Non-blocking (~man fcntl~, ~O_NONBLOCK~): Check whether message is available
     - Copy into process' buffer if yes
     - Corresponding return value if no
     - Does never block process for longer time 
