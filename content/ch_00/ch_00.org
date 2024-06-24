@@ -256,7 +256,7 @@ We will do mini-projects!
     \cite{Steen:DistributedSystems:2017}
   - Coulouris, Distributed Systems
     \cite{Coulouris:DistributedSystems:2011}  
-- Lot's of material online 
+- Lots of material online 
 
 
 *** Cancelled classes, compensate for missed classes

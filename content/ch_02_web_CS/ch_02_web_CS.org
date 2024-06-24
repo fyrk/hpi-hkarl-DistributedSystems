@@ -256,7 +256,7 @@ Hence division of labor:
     dynamic responses (a *web application*) 
     - Examples: Django \url{https://www.djangoproject.com}, Tomcat \cite{ApacheTo2:online}, Ruby on Rails
       \url{http://rubyonrails.org}, Play \url{https://www.playframework.com}, ...
-    - Lot's of fanboyism \textendash{} but some good comparisons
+    - Lots of fanboyism \textendash{} but some good comparisons
       (\href{https://en.wikipedia.org/wiki/Comparison_of_web_frameworks}{Ref1},
       \href{https://softwareengineering.stackexchange.com/questions/102090/why-isnt-java-used-for-modern-web-application-development}{Ref2})
 

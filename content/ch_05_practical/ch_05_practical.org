@@ -72,7 +72,7 @@ We need to automate the following tasks:
   instructions
   - Example
     \href{https://aws.amazon.com/getting-started/tutorials/launch-a-virtual-machine/}{Amazon Elastic Cloud}
-  - Lot's of clicking through web pages
+  - Lots of clicking through web pages
   - Gives you at the end an IP address, key pair for ssh access 
 
 ** Vagrant 

@@ -21,7 +21,7 @@ Recall memcached:
 #+BEAMER: \pause
 
 - Simple scheme, but does not scale well
-  - Lot's of state in clients 
+  - Lots of state in clients 
 
 *** Key-value stores, without explicit server list 
 

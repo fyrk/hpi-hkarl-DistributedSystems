@@ -462,7 +462,7 @@ e-business and developing e-business applications.
 - Supports multiple protocols; in particular, AMQP-0.9.1
 - Written in Erlang, runs on Erlang VM 
 - Cluster deployments for throughput and availability
-- Lot's of plugins
+- Lots of plugins
 - Open source plus commercial distribution (Pivotal) 
 
 
@@ -1683,7 +1683,7 @@ Core building block of leader election
 - Powerful programming model 
 - Decoupling allows scaling up
 - Fault tolerance is a *real* challenge
-- Lot's of powerful tools available, with different tradeoffs
+- Lots of powerful tools available, with different tradeoffs
   (cp. \href{http://queues.io}{Queues IO website})  
 
 
@@ -1699,7 +1699,7 @@ Core building block of leader election
 
 *** Support machinery 
 
-- To build really correct MQ systems, lot's of support machinery,
+- To build really correct MQ systems, lots of support machinery,
   algorithms is necessary
 - We touched upon leader election as a first step
 - But:

@@ -703,7 +703,7 @@ print("Received request: %s" % message)
 
 - Message Pack \textendash{} https://msgpack.org
 
-  - Lot's of language bindings; used by redis, Pinterest, ... 
+  - Lots of language bindings; used by redis, Pinterest, ... 
 
 - Cap'n Proto \textendash{} https://capnproto.org
 
