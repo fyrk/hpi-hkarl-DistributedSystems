@@ -625,7 +625,7 @@ real-time) guarantees.
 - First step: Aggregates logs on a single machine
   - Instead of each process writing a text file in some weird
     location
-- Buzzword: syslogd and friedns 
+- Buzzword: syslogd and friends
 
 *** Distributed example: GrayLog 
 
