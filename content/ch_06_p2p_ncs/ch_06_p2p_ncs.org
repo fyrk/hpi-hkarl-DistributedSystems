@@ -554,7 +554,7 @@ Note: Variants exist
 
 * Other examples  
 
-*** Bittorrent 
+*** BitTorrent 
 
 - Perhaps the most alive of the remaining P2P systems
 - Emphasis splitting of big files into pieces
@@ -568,7 +568,7 @@ Note: Variants exist
 
 *** Mainline DHT  
 
-- DHT as used in (many clients for) Bittorrent 
+- DHT as used in (many clients for) BitTorrent 
 - Based on Kademlia 
 - Many implementations exist, e.g., https://github.com/the8472/mldht ,
   https://github.com/nictuku/dht (in golang) 
