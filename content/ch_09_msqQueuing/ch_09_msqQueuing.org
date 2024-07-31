@@ -907,7 +907,7 @@ Topic:my-replicated-topic   PartitionCount:1    ReplicationFactor:3 Configs:
 - Mostly follows
   \href{https://kafka.apache.org/documentation/\#design}{Design discussion} 
 - Challenges to solve
-  - How to persist massages?
+  - How to persist messages?
   - How to get total order?
   - How to deal with failing servers? How to replicate? 
   - Efficiency! High throughput! 
