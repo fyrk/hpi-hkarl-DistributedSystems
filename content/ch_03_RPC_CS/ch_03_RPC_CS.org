@@ -189,7 +189,7 @@ What if things go wrong?
   - At least once?
   - At most once? 
 
-*** Source or failures
+*** Source of failures
 
 - Request message is lost
 - Reply message is lost
@@ -1004,9 +1004,9 @@ But:  No DELETE, PUT,  ... supported!
 
 
 *** Examples
- - Several popular sites provide Web services 
-   - Yahoo, google, ebay, Amazon, … 
- - Example: Access to Google’s Map api 
+ - Several popular sites provide Web services
+   - Yahoo, Google, Ebay, Amazon, … 
+ - Example: Access Google Maps’s API
    - You’ll need: 
      - a programming language that can curl a URL 
      - Interpret the resulting JSON
