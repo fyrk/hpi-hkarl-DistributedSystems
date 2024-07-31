@@ -963,14 +963,14 @@ From \cite{RESTRepresen19:online}
 \small 
 
 #+BEGIN_SRC  html
- <html>
+<html>
 <body>
-  <form action="form_handler.php" method=”POST">
+  <form action="form_handler.php" method="POST">
     User Name: <input name="user" type="text" />
-   <input type="submit"value="Submit" />
+    <input type="submit"value="Submit" />
   </form>
- </body>
- </html>
+</body>
+</html>
 #+END_SRC
 
 But:  No DELETE, PUT,  ... supported!
