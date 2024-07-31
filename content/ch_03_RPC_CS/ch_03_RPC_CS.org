@@ -639,7 +639,7 @@ import zerorpc
 
 c = zerorpc.Client()
 c.connect("tcp://127.0.0.1:4242")
-print c.hello("RPC")
+print(c.hello("RPC"))
 #+END_SRC
 
 
@@ -663,7 +663,7 @@ import zerorpc
 class StreamingRPC(object):
     @zerorpc.stream
     def streaming_range(self, fr, to, step):
-        return xrange(fr, to, step)
+        return range(fr, to, step)
 
 s = zerorpc.Server(StreamingRPC())
 s.bind("tcp://0.0.0.0:4242")
@@ -682,7 +682,7 @@ c = zerorpc.Client()
 c.connect("tcp://127.0.0.1:4242")
 
 for item in c.streaming_range(10, 20, 2):
-    print item
+    print(item)
 #+END_SRC
 
 
@@ -1012,19 +1012,19 @@ But:  No DELETE, PUT,  ... supported!
      - Interpret the resulting JSON
 
 
-**** Example: Google Map Service                             :B_exampleblock:
+**** Example: Google Maps Service                             :B_exampleblock:
      :PROPERTIES:
      :BEAMER_env: exampleblock
      :END:
 \small 
 
 #+BEGIN_SRC python
- import requests
- import json
- 
- r = requests.get("https://maps.googleapis.com/maps/api/geocode/json?address=Warbugrstr. 100, Paderborn") 
- 
- print json.dumps(r.json(), indent=4)
+import requests
+import json
+
+r = requests.get("https://maps.googleapis.com/maps/api/geocode/json?address=Warbugrstr. 100, Paderborn") 
+
+print(json.dumps(r.json(), indent=4))
 #+END_SRC
 
 
