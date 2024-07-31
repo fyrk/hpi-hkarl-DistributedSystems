@@ -1248,7 +1248,7 @@ Topic:my-replicated-topic   PartitionCount:1    ReplicationFactor:3 Configs:
   - Number of nodes globally known 
   - Processes can fail, recover at indeterminate times
   - Time to broadcast is much smaller than MTTF, MTTR
-  - In typical operation, nodes only talks to leader, but not to other
+  - In typical operation, nodes only talk to leader, but not to other
     nodes 
 
 *** Source 
