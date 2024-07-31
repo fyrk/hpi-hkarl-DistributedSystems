@@ -1229,7 +1229,7 @@ Topic:my-replicated-topic   PartitionCount:1    ReplicationFactor:3 Configs:
 
 - Communicate anticlockwise
 
-#+CAPTION: LCR example ring: First two steps 
+#+CAPTION: LCR example ring: Eight steps 
 #+ATTR_LaTeX: :width 0.75\linewidth :options page=3
 #+NAME: fig:LCR_ring_complete
 [[./figures/leaderelect_ring.pdf]]
