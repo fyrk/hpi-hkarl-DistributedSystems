@@ -1239,7 +1239,7 @@ Almost all!
 *** Towards better hashing: nodes and keys 
 
 - Keys and node identifiers: both chosen as \ac{GUID}
-- Node responsibility: from it's own GUID to the next bigger one by
+- Node responsibility: from its own GUID to the next bigger one by
   any node
 
 *** Distance  
